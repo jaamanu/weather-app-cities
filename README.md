@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="assets/Screenshot 2023-04-29 at 14.36.42.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>WEATHER APP FOR WOLRD WIDE CITIES </b></h3>
 
 </div>
 
