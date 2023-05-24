@@ -67,7 +67,9 @@ After you're finished please remove all the comments and instructions!
 **[weather-app-cities]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
-- HMTL
+
+- JavaScript
+- HTML
 - CSS
 - API
 </details>
